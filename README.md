@@ -19,9 +19,9 @@ Ahora estoy en busca de nuevas oportunidades para seguir aprendiendo y creciendo
 
 ## 🛠 <span style="color:#FF5733;">Tecnologías y Herramientas</span>
 
-- ⚡ **Frontend:** *HTML, CSS, JavaScript, React, Redux*
-- ⚡ **Backend:** *Node.js, Express, PostgreSQL, Sequelize*
-- ⚡ **Otras herramientas:** *Git, GitHub, Postman, Figma*
+- ⚡ **Frontend:** *HTML, CSS, JavaScript, Java, NextJs, React, Redux, Remix, Tailwind, bootstrap*
+- ⚡ **Backend:** *Node.js, Express, PostgreSQL, Sequelize, prisma, Docker*
+- ⚡ **Otras herramientas:** *Git, GitHub, Postman, Figma, Ebay evo design sistem, Webpack, Seo, Scrum master, Jira*
 
 ---
 
