@@ -12,7 +12,7 @@ Soy un **programador FullStack** orientado al diseño **Front-End** y especialis
 
 ## 🚀 <span style="color:#2196F3;">Sobre mí</span>
 
-Soy un apasionado del **desarrollo web** y recientemente he finalizado el **bootcamp de SoyHenry**, donde adquirí habilidades en **JavaScript, React, Node.js, Express, PostgreSQL** y mucho más.  
+Soy un apasionado del **desarrollo web** egresado del **bootcamp de SoyHenry**, donde adquirí habilidades en **JavaScript, React, Node.js, Express, PostgreSQL** y mucho más.  
 Ahora estoy en busca de nuevas oportunidades para seguir aprendiendo y creciendo como desarrollador.
 
 ---
