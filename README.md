@@ -32,6 +32,11 @@ Desarrollé el frontend de **Depabarato.com**, una plataforma que ayuda a las pe
 Nuestro valor agregado fue el uso de **inteligencia artificial**, permitiendo que las personas interactúen con nuestra **IA** para encontrar el departamento que mejor se adapte a sus necesidades.  
 🔗 **Visítalo aquí:** [Depabarato.com](https://www.depabarato.com/)
 
+🔹 **MobileCer**  
+Desarrollé **MobileCer**, una plataforma que permite a los usuarios seguir en tiempo real el estado de reparación de su celular 📲🔧, mejorando la comunicación con los clientes y optimizando los tiempos de servicio.  
+Nuestro valor agregado es la automatización de notificaciones y un **chatbot** para resolver dudas de los usuarios.  
+🔗 **Visítalo aquí:** [MobileCer](https://pffront-fawn.vercel.app/)  
+
 🔹 **Curriculum Profesional Online**  
 🚀 Mi primer proyecto como desarrollador frontend: un **CV online** que refleja mi aprendizaje y crecimiento.  
 🔗 **Échale un vistazo aquí:** [Mi CV Online](https://altoq.pe/NyCv7)
