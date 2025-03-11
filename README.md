@@ -1,6 +1,8 @@
 # 👋 <span style="color:#ff6600;">¡Hola! Mi nombre es Gary Casas Wong</span>
 ### *Desarrollador FullStack con enfoque en Frontend y sistemas de diseño*
-**También conocido como GCasasWong en GitHub**  
+**También conocido como ## 📊 Estadísticas de GitHub
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=GCasasWong&show_icons=true&theme=radical) en GitHub**  
 
 ---
 
